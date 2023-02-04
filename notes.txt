@@ -13,7 +13,7 @@ from app.js it goes to routes.js
 username: amrithraj8788
 pass: Qp7KpCggnzqq3pIS
 
-mongodb+srv://amrithraj8788:Qp7KpCggnzqq3pIS@cluster0.pgfukqa.mongodb.net/ecommerce?retryWrites=true&w=majority 
+
 
 four request methods: get, post, put, delete
 
